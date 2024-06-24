@@ -1,0 +1,10 @@
+id,name,read,pattern,sequence,feature_type
+BC31,F_Striatum.BC31,R2,5P(BC),TTACGGTG,Antibody Capture
+BC32,F_Cortex.BC32,R2,5P(BC),GCATGTAC,Antibody Capture
+BC33,F_Ventral_midbrain.BC33,R2,5P(BC),CAAGGTCT,Antibody Capture
+BC34,F_Striatum.BC34,R2,5P(BC),ATACGTGC,Antibody Capture
+BC35,F_Cortex.BC35,R2,5P(BC),GCAGTATC,Antibody Capture
+BC36,F_Ventral_midbrain.BC36,R2,5P(BC),AGATTCCG,Antibody Capture
+BC37,F_Striatum.BC37,R2,5P(BC),TCAGTCGA,Antibody Capture
+BC38,F_Cortex.BC38,R2,5P(BC),GAACTCTG,Antibody Capture
+BC44,F_Ventral_midbrain.BC44,R2,5P(BC),CCCGAAGC,Antibody Capture
